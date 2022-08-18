@@ -1,56 +1,63 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books
 
-> Description the project.
+"Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list. With this application, you can manage data using JavaScript to make it more interactive. I used a medium-fidelity wireframe to build the UI.
 
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+   * HTML
+   * CSS
+   * JS
 
-## Live Demo (if available)
+- Technologies used:
+    * Git
+    * GitHub
+    * Vs cod
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+
+[Awesome Books Website](https://alierpm.github.io/awesome-books-app/)
 
 
-## Getting Started
+### To get a local copy up and running
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+> Follow these simple example steps:
 
+  1. Locate the project folder in the Repository.
+  2. Click on the code button and dowload a zip file for the project locally.
+  3. Locate the index.html file and double click it to view webpage.
 
-To get a local copy up and running follow these simple example steps.
+### Prerequisites:
 
-### Prerequisites
+  * Node.js as prerequisites for npm installation
+  * install node package manager(npm): npm helps to install stylelint.
+  * stylelint for debuging code
+  * Any browser of your choice to display the webpage contents.
+
 
 ### Setup
-
-### Install
+> Download and install browser.
 
 ### Usage
+> Navigate through the web page to find the information you need. Use the links in the pages to move to different sections.
 
-### Run tests
 
 ### Deployment
+> Project reside in this Repository. You can clone the repo or download the files manually to your local machine.
 
 
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Author
+:bust_in_silhouette: **Alier Philip Maguet**
+- GitHub: [@AlierPM](https://github.com/AlierPM)
+- Twitter: [@AlierPM](https://twitter.com/AlierPM)
+- LinkedIn: [@AlierPM](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -70,6 +77,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
