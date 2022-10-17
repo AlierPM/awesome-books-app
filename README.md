@@ -15,7 +15,7 @@
 - Technologies used:
     * Git
     * GitHub
-    * Vs cod
+    * Vs code
 
 ## Live Demo
 
